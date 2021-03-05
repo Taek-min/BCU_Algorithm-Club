@@ -1,0 +1,2 @@
+[1번 문제]
+print("Hello World!")
