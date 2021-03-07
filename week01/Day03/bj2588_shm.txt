@@ -12,3 +12,4 @@ for i in range(0 ,len(B)):
 print(total)
 
 #변수명을 좀 더 신경써서 지으면 좋을듯.
+	#예시로 어떤 변수가 좀 그런지 말좀 
