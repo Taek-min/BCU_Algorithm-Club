@@ -6,3 +6,4 @@ print(int (A) // int (B))
 print(int (A) % int (B))
 
 #앙 약속가야지
+# 잘 푸시네용

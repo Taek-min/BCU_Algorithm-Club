@@ -5,3 +5,4 @@ print((int(A) * int(B)) % int(C))
 print(((int(A) % int(C)) * (int(B) % int(C))) % int(C))
 
 #좋네요
+#풀고도 어케 푼지 모르겟음..
