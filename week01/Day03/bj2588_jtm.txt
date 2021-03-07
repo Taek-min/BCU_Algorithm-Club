@@ -4,3 +4,5 @@ print(int(Num1) * (int(Num2) % 10))
 print(int(Num1) * ((int(Num2) % 100) - (int(Num2) % 10))//10)
 print(int(Num1) * (int(Num2) // 100))
 print(int(Num1) * int(Num2))
+
+# 이거 약속갔다와서 다시 봄 
