@@ -2,5 +2,5 @@ A,B = input().split()
 if int(A)>0 and int(B)<10:
 	print(int(A) + int(B))
 
-////if문 지리누..
-////역시 꼼꼼한 남자
+#if문 지리누..
+#역시 꼼꼼한 남자
