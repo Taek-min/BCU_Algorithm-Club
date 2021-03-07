@@ -10,3 +10,5 @@ for i in range(0 ,len(B)):
 	total += (num) * (10**i)
 
 print(total)
+
+#변수명을 좀 더 신경써서 지으면 좋을듯.
