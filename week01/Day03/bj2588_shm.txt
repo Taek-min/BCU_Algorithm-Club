@@ -1,0 +1,12 @@
+A = input()
+B = input()
+a = int(A)
+b = str(B)
+total = 0
+for i in range(0 ,len(B)):
+	f = int(b[2 - i])
+	num = a * f
+	print(num)
+	total += (num) * (10**i)
+
+print(total)
