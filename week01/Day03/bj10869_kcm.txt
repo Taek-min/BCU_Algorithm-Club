@@ -8,3 +8,5 @@ print(a - b)
 print(a * b)
 print(a // b)
 print(a % b)
+
+#빠르네~잘 하네~
