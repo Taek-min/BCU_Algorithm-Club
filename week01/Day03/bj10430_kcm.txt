@@ -10,3 +10,4 @@ print((a * b) %c)
 print(((a % c) * (b % c)) %c)
 
 #굳맨 
+#굳

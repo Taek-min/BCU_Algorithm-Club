@@ -11,3 +11,4 @@ if score >= 0 and score <= 100:
 		print("D")
 	else:
 		print("F")
+#굿굿
