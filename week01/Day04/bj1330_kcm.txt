@@ -10,3 +10,5 @@ elif a > b:
     print(">")
 else:
     print("==")
+
+#간단하게 잘하셨네
