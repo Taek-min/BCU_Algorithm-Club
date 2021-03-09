@@ -1,0 +1,11 @@
+H, M = map(int, input().split())
+
+if 0 <= H <= 23 and 0 <= M <= 59:
+	if H > 0 and M < 45:					# 1시 이상이며 45분 미만일 때
+		print("%d %d" %(H -1, 60 + (M - 45)))
+	elif H == 0 and M < 45:					# 0시이며 45분 미만일 때
+		print("%d %d" %(24 + (H - 1), 60 + (M - 45)))
+	elif H == 0 and M >= 45:					# 0시이며 45분 이상일 때
+		print("%d %d" %(H, M - 45))
+	elif H >= 1 and M >= 45:					# 1시 이상이며 45분 이상일 때
+		print("%d %d" %(H, M - 45))
