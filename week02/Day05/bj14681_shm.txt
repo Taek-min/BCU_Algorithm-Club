@@ -10,3 +10,4 @@ if -1000 <= (x and y) <= 1000 and (x and y) != 0:
 		print(3)
 	else:
 		print(4)
+#굳

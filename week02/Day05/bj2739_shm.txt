@@ -2,3 +2,5 @@ num = int(input())
 for i in range(1, 10):
 	result = num * i
 	print("%d * %d = %d" %(num, i, result))
+
+# 저랑 똑같네요
