@@ -1,0 +1,18 @@
+H, M = input().split()
+
+H = int(H)
+M = int(M)
+
+if 0 <= H <= 23 and 0 <= M <= 59:
+    if M < 45:
+        if H == 0:
+            H = 23
+            print(H,15 + M)
+        else:
+            H -= 1
+            print(H,15 + M)
+        
+    elif M == 45:
+        print(H, M - 45)
+    else:
+        print(H, M - 45)
