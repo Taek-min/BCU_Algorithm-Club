@@ -3,3 +3,5 @@ N = int(input())
 for i in range(1,10):
     Multi =  N * i
     print("%d * %d = %d" %(N, i, Multi))
+
+#그러네요 똑같네요

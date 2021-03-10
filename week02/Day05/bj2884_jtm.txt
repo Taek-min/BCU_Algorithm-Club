@@ -7,3 +7,5 @@ if M < 45:
         print(H + 23, M + 15)
 else:
     print(H, M - 45)
+
+# 잘했네 도움 받고 갑니다.
