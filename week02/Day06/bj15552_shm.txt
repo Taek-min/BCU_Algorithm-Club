@@ -1,5 +1,5 @@
 import sys			#솔직히 이거 잘 모르겠음  
-input = sys.stdin.readline
+input = sys.stdin.readline		ㄴ2번째 줄 필요없을듯(나도 설명해줄 정도로 이해한건 아니라 좀 더 공부하고 말해줌)
 rep = int(input())
 
 for i in range(1, rep + 1):
