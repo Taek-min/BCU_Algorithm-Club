@@ -3,3 +3,5 @@ tcase = int(input())
 for i in range(tcase):
     A, B = map(int, sys.stdin.readline().split())
     print(A+B)
+
+#나중에 설명 부탁해욘 

@@ -3,3 +3,5 @@ result = 0
 for i in range(num+1):
     result = result + i
 print(result)
+
+#오우 나랑 똑같네 
