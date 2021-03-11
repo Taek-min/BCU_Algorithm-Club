@@ -56,5 +56,5 @@
 ### [1주차](week01)
 * 입출력과 사칙연산을 이용한 문제풀이
 ### [2주차](week02)
-* Concept: [조건문과 반복문]()
+* Concept: [조건문과 반복문](https://github.com/Taek-min/BCU_Algorithm-Club/tree/master/week02/Day05/vounteer)
 * Volunteer: 강창민
