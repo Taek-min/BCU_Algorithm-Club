@@ -6,3 +6,4 @@ for i in range(n):
     print(num)
 
 # 쉽죠?
+#rnt

@@ -9,3 +9,4 @@ for i in range(T):
     print("Case #%i: %d" %(i+1,a+b))
 
 # sys.stdin.readline 이거 나중에 나 알려줘 
+#rnt
