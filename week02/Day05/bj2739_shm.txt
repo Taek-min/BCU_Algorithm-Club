@@ -4,3 +4,4 @@ for i in range(1, 10):
 	print("%d * %d = %d" %(num, i, result))
 
 # 저랑 똑같네요
+#코드가 복사가되잇어
