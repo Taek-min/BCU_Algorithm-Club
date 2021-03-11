@@ -7,3 +7,5 @@ T = int(input())
 for i in range(T):
     a, b = map(int, input().split())
     print("Case #%i: %d" %(i+1,a+b))
+
+# sys.stdin.readline 이거 나중에 나 알려줘 
