@@ -4,3 +4,5 @@ for i in range(n+1):
     sum = sum + i
     if i + 1 == n +1:
         print(sum)
+
+## if문 필요없이 그냥 for문 빠져나왔을때 print하면 됐음!

@@ -1,6 +1,6 @@
 n = int(input())
 
-
+## range(num, 0, -1) 이럴수도 있음
 for i in range(n):
     num = n - i  
     print(num)

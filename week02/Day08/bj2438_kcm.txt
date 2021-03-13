@@ -1,5 +1,6 @@
 T = int(input())
 
 for i in range(T):
+    ## range(1, T+1) 을 합시다,,
     i = i + 1
     print("*" * i)

@@ -1,5 +1,6 @@
 num = int(input())
 count = num
+## range(num, 0, -1) 이럴수도 있음
 for i in range(num):
     count = num  - i
     print(count)

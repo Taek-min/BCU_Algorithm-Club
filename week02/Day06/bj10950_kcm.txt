@@ -7,4 +7,5 @@ for i in range(T):
 
    print(A + B)
 
+   ## 이런거 안해도 알아서 빠져나감!
    if i == T: break

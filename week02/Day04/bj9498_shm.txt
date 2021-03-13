@@ -1,5 +1,6 @@
 score = int(input())
 
+## 그 사이 값만 백준 채점기가 넣는다는 뜻이니 0~100 체크해줄 필요 없음
 if score >= 0 and score <= 100:
 	if	score >=90:
 		print("A")

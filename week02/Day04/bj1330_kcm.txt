@@ -1,3 +1,5 @@
+## a, b = map(int, input().split())
+## 이렇게하면 int(a) int(b) 따로 해줄필요 없음
 a,b = input().split()
 
 a = int(a)

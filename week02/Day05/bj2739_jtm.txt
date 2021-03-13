@@ -2,6 +2,7 @@ N = int(input())
 
 for i in range(1,10):
     Multi =  N * i
+    ## 지금도 괜찮은디 변수 선언 따로 안하고 N * i 바로 넣어줘도 되는거 알죠?
     print("%d * %d = %d" %(N, i, Multi))
 
 #그러네요 똑같네요
