@@ -1,5 +1,6 @@
 num = int(input())
 for i in range(num):
-    print("" * (num-i-1) + "*" * (i+1))
+    print(" " * (num-i-1) + "*" * (i+1))
 
 # ? 이거 잘못 올리신거 같으신데요 ? 공백을 안하셧네
+	ㄴ 수정했습니다.
