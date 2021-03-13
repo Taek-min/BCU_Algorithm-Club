@@ -3,3 +3,5 @@ count = num
 for i in range(num):
     count = num  - i
     print(count)
+
+#굿 잘하셧네용

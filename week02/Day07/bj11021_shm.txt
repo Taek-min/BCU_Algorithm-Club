@@ -5,3 +5,4 @@ for i in range(rep):
 	sum = num1 + num2
 	print("Case #%d: %d" %(i + 1, sum))
 #rnt
+#잘하셧네용 이거근데 프린트에서 저거 %(i어쩌고쓰는거 따로쓰면 안되더라
