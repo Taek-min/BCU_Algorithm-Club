@@ -7,3 +7,4 @@ for i in range(N):
         continue    
 
 ## else 필요없어도 될듯한 이 느낌. 그치만 end 배우고 갑니다
+# 노느라 늦어버렸구 [:N]이게 뭐죠?

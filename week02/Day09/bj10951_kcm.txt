@@ -8,3 +8,4 @@ while True:
         break
 
 ## try, except 잘 배웠었습니다 ~
+# EOF 라는거 잊지말구요~

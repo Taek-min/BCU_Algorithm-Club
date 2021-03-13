@@ -6,3 +6,4 @@ while True:
 	
 	except:
 		break
+# 굿 EOF 인거알지?

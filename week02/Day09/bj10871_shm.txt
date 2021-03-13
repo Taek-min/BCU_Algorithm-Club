@@ -4,3 +4,4 @@ array = list(map(int, input().split()))
 for i in range(rep):
 	if array[i] < max:
 		print(array[i], end = ' ')
+# 굿
