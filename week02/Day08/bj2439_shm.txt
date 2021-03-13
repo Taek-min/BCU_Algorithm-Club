@@ -3,3 +3,4 @@ num = int(input())
 for i in range(1, num + 1):
 	print((" " * (num - i)) + ("*" * i))
 #굳
+#다들 비슷하게 풀엇네
