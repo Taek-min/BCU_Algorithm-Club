@@ -6,3 +6,5 @@ while True:
         print(A + B)
     except:
         break
+
+## try, except 잘 배웠었습니다 ~

@@ -5,3 +5,5 @@ for i in range(N):
         print(N_list[i],end= " ")
     else:
         continue    
+
+## else 필요없어도 될듯한 이 느낌. 그치만 end 배우고 갑니다
