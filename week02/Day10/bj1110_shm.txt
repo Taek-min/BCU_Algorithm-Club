@@ -9,3 +9,5 @@ while True:
 		break
 	
 print(cnt)
+
+#이거 보고 내 한계를 느꼇다.

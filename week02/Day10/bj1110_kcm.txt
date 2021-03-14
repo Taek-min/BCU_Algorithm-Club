@@ -1,0 +1,14 @@
+num = int(input())
+num1 = num
+i = 0
+
+while True:
+    
+    a =  num // 10 + num % 10
+    stack = (num % 10) * 10 + a % 10 
+    num = stack
+    i += 1
+
+    if stack == num1:
+        print(i)
+        break

@@ -10,3 +10,5 @@ for i in array:
 		min = i
 		
 print(min, max)
+
+#min, max를 사용하면 간단하게 할수잇다.
