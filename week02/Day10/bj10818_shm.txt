@@ -1,0 +1,12 @@
+num = int(input())
+array = list(map(int, input().split()))
+max = array[0]
+min = array[0]
+
+for i in array:
+	if i > max:
+		max = i
+	if i < min:
+		min = i
+		
+print(min, max)

@@ -1,0 +1,11 @@
+num = int(input())
+num2 = num
+cnt = 0
+while True:
+	new_num = ((num2 // 10) + (num2 % 10)) % 10 
+	num2 = (num2 % 10) * 10 + new_num 
+	cnt += 1
+	if num == num2:
+		break
+	
+print(cnt)
