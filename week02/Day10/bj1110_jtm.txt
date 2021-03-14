@@ -1,0 +1,11 @@
+original_num = int(input())
+copy_num = original_num
+cnt = 0
+
+while True:
+    copy_num = (copy_num % 10 * 10) + (((copy_num // 10) + (copy_num % 10))%10)
+    cnt += 1
+    if original_num == copy_num:
+        break
+
+print(cnt)
