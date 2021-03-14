@@ -3,3 +3,5 @@ sequence = list(map(int, input().split()))
 for i in range(num1):
     if sequence[i] < num2:
         print(sequence[i], end = ' ')
+
+#좋구만유 여기서 end를 배웟다

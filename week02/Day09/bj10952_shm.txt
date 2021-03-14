@@ -7,3 +7,4 @@ while True:
 	
 	print(sum)
 #perfect
+#다들 비슷하게 햇네용

@@ -5,3 +5,4 @@ for i in range(rep):
 	if array[i] < max:
 		print(array[i], end = ' ')
 # 굿
+#end 잘 배워갑니다!

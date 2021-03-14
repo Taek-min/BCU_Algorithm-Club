@@ -4,3 +4,6 @@ while True:
         print(num1 + num2) 
     except:
         break
+
+#try except 잘 배워갑니다~
+

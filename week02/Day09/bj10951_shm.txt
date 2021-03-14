@@ -7,3 +7,4 @@ while True:
 	except:
 		break
 # 굿 EOF 인거알지?
+# end of F는 뭐누
