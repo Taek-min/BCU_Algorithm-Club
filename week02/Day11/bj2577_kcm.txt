@@ -1,0 +1,13 @@
+A = int(input())
+B = int(input())
+C = int(input())
+
+times = A * B * C
+
+list_t = []
+
+for i in str(times):
+    list_t.append(i)
+
+for j in range(10):
+    print(list_t.count(str(j)))

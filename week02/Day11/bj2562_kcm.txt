@@ -1,0 +1,6 @@
+list_N =[]
+for i in range(9):
+    list_N.append(int(input()))
+
+print(max(list_N))
+print(list_N.index(max(list_N)) + 1)
