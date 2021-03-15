@@ -12,3 +12,5 @@ while True:
     if stack == num1:
         print(i)
         break
+
+# 비슷하게 잘하셨네,, 슬슬 힘들다 ㅎ ㅎ..

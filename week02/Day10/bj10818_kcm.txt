@@ -4,3 +4,5 @@ list_N = list(map(int,input().split()[:num]))
 print(min(list_N),max(list_N))
 
 이거 근데 시간이 되게 오래걸림.
+
+#오.. 그냥 min이랑 max쓰면 되나보네..
