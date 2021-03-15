@@ -12,3 +12,4 @@ for i in array:
 print(min, max)
 
 #min, max를 사용하면 간단하게 할수잇다.
+# ㄴ 이하 동문 근데 똑같이 시간은 오래걸림
