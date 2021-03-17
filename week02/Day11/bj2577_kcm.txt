@@ -13,3 +13,4 @@ for j in range(10):
     print(list_t.count(str(j)))
 
 # 어럽다 배열 ..... 잘하셨네욘 
+ㄴ 인터넷 찾아보면서 열심히 햇지용
