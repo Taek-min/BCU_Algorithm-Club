@@ -4,3 +4,5 @@ for i in range(9):
 
 print(max(list_N))
 print(list_N.index(max(list_N)) + 1)
+
+# ㅋㅋ 저 찾아봤는데 내가 창민이껄 보고 했나보네 

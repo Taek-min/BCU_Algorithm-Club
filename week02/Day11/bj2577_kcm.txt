@@ -11,3 +11,5 @@ for i in str(times):
 
 for j in range(10):
     print(list_t.count(str(j)))
+
+# 어럽다 배열 ..... 잘하셨네욘 
